@@ -39,3 +39,4 @@ but not yet & we need a way to roll back version on production...
 - Sketch 3.8
 - [Sketch 3.8.1](http://download.sketchapp.com/sketch-3.8.1.zip)
 - [Sketch 3.8.2](http://download.sketchapp.com/sketch-3.8.2.zip)
+- [Sketch 3.8.3](http://download.sketchapp.com/sketch-3.8.3.zip)
