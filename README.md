@@ -45,3 +45,4 @@ but not yet & we need a way to roll back version on production...
 - [Sketch 40](http://download.sketchapp.com/sketch-40.zip)
 - [Sketch 40.1](http://download.sketchapp.com/sketch-40.1.zip)
 - [Sketch 40.2](http://download.sketchapp.com/sketch-40.2.zip)
+- [Sketch 40.3](http://download.sketchapp.com/sketch-40.3.zip)
