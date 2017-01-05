@@ -6,7 +6,7 @@ I heard that Sketch team is working on an archive page!:rainbow:
 
 but not yet & we need a way to roll back version on production...
 
->> Done! Thank you, Sketch team!:beers:
+-> Done! Thank you, Sketch team!:beers:
 
 ## Recommended!!
 
